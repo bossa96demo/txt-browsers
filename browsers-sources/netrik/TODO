@@ -1,0 +1,39 @@
+This file presently only lists things that we consider quite important, and
+which are not too hard to implement, without any major changes to the program
+structure. These things may be implemented in some of the 1.x releases, but
+some may also be moved to 2.x or some later point if the 2.0 branch starts
+before they are implemented.
+
+Versions 2.x and later are open for anything you can think of :-) (See
+http://netrik.sf.net/dev.html for some ideas... Suggestions welcome :-) )
+
+The parenthesis give information about the difficulty level of each task. If
+you are interested in working on some of these, please subscribe to the mailing
+list (see _Keeping in Touch_ in README), and tell us what you want to do.
+
+- better website
+- introductory helpfile
+
+- improved command line handling (fairly easy, little knowledge necessary)
+- improved keyboard handling (medium, little knowledge)
+- open helpfile (docs overview) with special command in pager (easy, quite
+  little knowledge)
+- cookies (medium, some knowledge of loading module)
+- file download (medium, good knowledge of loading module)
+- display plain text files (medium, good knowledge of layouting)
+- mailcap handling (medium, some(?) knowledge of loading module)
+- HTTP AUTH (fairly easy, some knowledge of loading)
+- SSL (HTTPS) support (rather hard, quite good knowledge of loading)
+- character set conversion (medium, good knowledge)
+- handle tabs in HTML code a bit better (quite easy, some knowledge of
+  layouting)
+- add Accept-*: and other useful HTTP headers (easy, little knowledge)
+- add some missing HTML elements: sub/sup, q (very easy, quite little
+  knowledge)
+- add support for image maps (fairly easy, some knowledge of layouting)
+- improve search functions: Find next, backwards search, regex search (medium,
+  medium knowledge)
+- handle <base url> (medium, fairly good knowledge of loading)
+- minimal frame handling (pretty hard, some knowledge of pager and good
+  knowledge of page loading)
+- save form data in history (medium, some knowledge of loading and layouting)
