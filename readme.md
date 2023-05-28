@@ -9,7 +9,7 @@
 - [ELinks](http://www.elinks.cz/), Advanced, feature-rich text mode web browser, [wikipedia page](https://en.wikipedia.org/wiki/ELinks)
 
 
-I have found all browsers' sources, they will be located in `browsers-cources` folder. <br>
+I have found all browsers' sources, they will be located in `browsers-sources` folder. <br>
 I don't think I will update sources, however I will place link to each browser's source.
 
 ### Links to sources:
